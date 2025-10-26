@@ -1,0 +1,1 @@
+<?php   $var1='test';  var_dump(isset($var1));   echo "<br>";  var_dump(isset($var2));  ?>

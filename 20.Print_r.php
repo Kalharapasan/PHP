@@ -1,0 +1,1 @@
+<?php   $var1='abc';  $abc = array('Subj1'=>'Physics','Subj2'=>'Chemistry','Subj3'=>'Mathematics','Class'=>array(5,6,7,8));   print_r($var1);   echo'<br>';  print_r($abc);  echo'<br>';  print($abc)   ?>

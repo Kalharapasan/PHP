@@ -1,0 +1,1 @@
+<?php   $a=30;    if($a==30)  {   echo "a value is 30";  }  ?>

@@ -1,0 +1,1 @@
+<?php   $result=print "This will print<br>";  echo $result;   ?>

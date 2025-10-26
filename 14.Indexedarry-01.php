@@ -1,0 +1,1 @@
+<?php    $ar = array( 1, 2, 3);    foreach($ar as $value)  {   echo "Value is $value ";  }  ?>

@@ -1,0 +1,1 @@
+<?php   // single-line comment   # This is also a single-line comment    // You can also use comments to leave out parts of a code line  $x = 20 + 100; // This is addition  echo $x;  ?>

@@ -1,0 +1,1 @@
+<?php   $a=10;    if($a==11)  {   echo "a value is 11";  }  elseif($a==12)  {   echo "a value is 12";  }  else  {   echo "This is else part";  }   ?>

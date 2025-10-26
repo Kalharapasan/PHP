@@ -1,0 +1,1 @@
+<?php   /*  Multiple-lines comment block  that spans over multiple  lines. This is used for  multi line comments  */   $x = 100 /* + 56 */ + 363;  echo $x;  ?>

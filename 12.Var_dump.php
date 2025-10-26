@@ -1,0 +1,1 @@
+<?php   var_dump("Var_dump output in a string");  echo "<br>";  var_dump(true);    echo "<br>";  var_dump(15);    echo "<br>";  var_dump(15.36);  ?>

@@ -1,0 +1,1 @@
+<?php   $my_string = "Hello Friends How are You?";  echo $my_string;   ?>
